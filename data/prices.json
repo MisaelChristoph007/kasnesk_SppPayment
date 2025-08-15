@@ -1,0 +1,17 @@
+{
+    "3": {
+        "id": "669a889b4bc52",
+        "description": "KELAS 10",
+        "amount": "500.000"
+    },
+    "4": {
+        "id": "669abaacdfc73",
+        "description": "KELAS 11",
+        "amount": "1000.000"
+    },
+    "5": {
+        "id": "669ababff0baf",
+        "description": "KELAS 12",
+        "amount": "1500.000"
+    }
+}

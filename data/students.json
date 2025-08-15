@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Andreas",
+        "class": "12 RPL 1",
+        "username": "andreas@neskar",
+        "password": "andreas@neskar.id",
+        "alamat": "Klari",
+        "id_spp": "1970-1001",
+        "image": "uploads\/Ephoto360.com_16765e2c8a0c54-removebg-preview.png"
+    },
+    {
+        "name": "John Doe",
+        "class": "XII TKR 1",
+        "username": "johndoe@neskar",
+        "password": "johndoe@neskar.id",
+        "alamat": "KARAWANG",
+        "id_spp": "1970-1002"
+    },
+    {
+        "name": "Pajril Ban Serep",
+        "class": "XII RPL 1",
+        "username": "jrilz@neskar",
+        "password": "jrilz@neskar.id",
+        "alamat": "Klari",
+        "id_spp": "1970-1003",
+        "image": "uploads\/678df8067a4a9.jpeg"
+    },
+    {
+        "name": "Achmad Adji Dharma Saputra",
+        "class": "XII RPL 1",
+        "username": "adji@neskar",
+        "password": "adji@neskar.id",
+        "alamat": "Lamaran",
+        "id_spp": "1970-1004",
+        "image": "uploads\/business-team-brainstorm-idea-lightbulb-from-jigsaw-working-team-collaboration-enterprise-cooperation-colleagues-mutual-assistance-concept-pinkish-coral-bluevector-isolated-illustration_335657-1651-re.png"
+    },
+    {
+        "name": "Hasbi Abdulloh",
+        "class": "XII RPL 1",
+        "username": "hasbi@neskar",
+        "password": "hasbi@neskar.id",
+        "alamat": "Kosambi",
+        "id_spp": "1970-1005"
+    },
+    {
+        "name": "Ikbal Kurnia Pratama",
+        "class": "XII TBSM 1",
+        "username": "ikbal@neskar",
+        "password": "ikbal@neskar.id",
+        "alamat": "Wirasaba",
+        "id_spp": "1970-1006"
+    }
+]

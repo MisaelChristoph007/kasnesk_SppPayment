@@ -1,0 +1,18 @@
+[
+    {
+        "id": "678d14ef31add",
+        "student_id": "Achmad Adji Dharma Saputra",
+        "class_id": "669aba5337d13",
+        "year_id": "669ac34e76264",
+        "price_id": "669ababff0baf",
+        "payment_date": "2024-04-20"
+    },
+    {
+        "id": "679d090551162",
+        "student_id": "Andreas",
+        "class_id": "669aba5337d13",
+        "year_id": "669a8662046ba",
+        "price_id": "669ababff0baf",
+        "payment_date": "2021-04-25"
+    }
+]
